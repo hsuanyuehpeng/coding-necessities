@@ -1,0 +1,1 @@
+--style=allman --style=bsd -A1 --indent=tab=4 --indent-namespaces --mode=c
