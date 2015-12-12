@@ -1,2 +1,2 @@
 # coding-necessities
-Some IDE/coding necessities for faster/effective coding
+Some IDE/programming necessities for faster/effective coding
