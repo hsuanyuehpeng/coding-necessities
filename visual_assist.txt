@@ -1,0 +1,2 @@
+Disable the following if typing becomes slow:
+VA Options -> Advanced -> Suggestions -> Include suggestions in listboxes
