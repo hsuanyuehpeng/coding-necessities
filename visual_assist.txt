@@ -1,2 +1,8 @@
 Disable the following if typing becomes slow:
 VA Options -> Advanced -> Suggestions -> Include suggestions in listboxes
+
+Disable auto bracketing
+VA Options -> Editor -> Insert () and closing })]'"
+
+Disable syntax coloring
+VA Options -> Coloring and Attributes -> Enable Enhanced Syntax Coloring
