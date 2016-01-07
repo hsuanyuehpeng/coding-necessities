@@ -1,0 +1,6 @@
+Slow in typing (http://stackoverflow.com/questions/19617670/why-vs-2013-is-very-slow):
+Set Current source control plug-in to None (Tools > Options > Source Control), if you are using Microsoft Git provider,
+which seems to to slow VS2013 down more and more the larger the repository gets.
+
+Disable Insights:
+Tools --> Extensions and Updates -->  Uninstall Application Insights
