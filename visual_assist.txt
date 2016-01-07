@@ -9,3 +9,9 @@ VA Options -> Coloring and Attributes -> Enable Enhanced Syntax Coloring
 
 Disable comment/string spell error red lines
 VA Options -> Underlining -> Underline spelling errors...
+
+VA's source of C/C++ content:
+
+1. VA Options -> Enhanced Listboxes -> Source of C/C++ content: Visual Assist
+2. Disable for all solutions
+	(VS)Tools -> Options -> Text Editor -> C/C++ -> Advanced -> Disable Database = True
