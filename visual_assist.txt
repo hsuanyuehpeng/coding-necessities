@@ -6,3 +6,6 @@ VA Options -> Editor -> Insert () and closing })]'"
 
 Disable syntax coloring
 VA Options -> Coloring and Attributes -> Enable Enhanced Syntax Coloring
+
+Disable comment/string spell error red lines
+VA Options -> Underlining -> Underline spelling errors...
