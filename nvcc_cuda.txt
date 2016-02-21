@@ -1,0 +1,4 @@
+Resolve unicode complaints from cuda runtime sdk:
+
+Add '/wd 4819' to [C/C++]->[Command Line] ->[Additional Options]
+Add '-Xcompiler "/wd 4819"' to [CUDA C/C++]->[Command Line] ->[Additional Options]
