@@ -7,3 +7,6 @@ Tools --> Extensions and Updates -->  Uninstall Application Insights
 
 Diable IntelliSense:
 Tools -> Options -> Text Editor -> [some languange (C/C++)] -> Advanced -> IntelliSense -> Disable IntelliSense [to True]
+
+Enable/Disable line wrap in Text Editor:
+Tools >> Options >> Text Editor >> All Languages >> General >> Select Word Wrap
