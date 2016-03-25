@@ -1,0 +1,2 @@
+Git: ¡§Corrupt loose object¡¨ (find the highest voted answer):
+http://stackoverflow.com/questions/4254389/git-corrupt-loose-object/4263009#4263009

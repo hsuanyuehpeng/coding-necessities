@@ -2,3 +2,10 @@ Resolve unicode complaints from cuda runtime sdk:
 
 Add '/wd 4819' to [C/C++]->[Command Line] ->[Additional Options]
 Add '-Xcompiler "/wd 4819"' to [CUDA C/C++]->[Command Line] ->[Additional Options]
+
+To enable the correct mode for compilation (called CUDA separate compilation) look for the
+"Generate Relocatable Device Code" option in VS project CUDA properties.
+
+Adding cuda and thrust libs, add the following in C/C++ linker
+	cudart.lib
+	cudadevrt.lib
