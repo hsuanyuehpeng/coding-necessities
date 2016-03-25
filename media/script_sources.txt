@@ -1,0 +1,2 @@
+auto-hot-key source (stackoverflow):
+http://superuser.com/questions/278951/my-keyboard-has-no-media-keys-can-i-control-media-without-them
