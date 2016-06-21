@@ -1,17 +1,19 @@
 Disable the following if typing becomes slow:
-VA Options -> Advanced -> Suggestions -> Include suggestions in listboxes
+	VA Options -> Advanced -> Suggestions -> Include suggestions in listboxes
 
 Disable auto bracketing
-VA Options -> Editor -> Insert () and closing })]'"
+	VA Options -> Editor -> Insert () and closing })]'"
 
 Disable syntax coloring
-VA Options -> Coloring and Attributes -> Enable Enhanced Syntax Coloring
+	VA Options -> Coloring and Attributes -> Enable Enhanced Syntax Coloring
 
 Disable comment/string spell error red lines
-VA Options -> Underlining -> Underline spelling errors...
+	VA Options -> Underlining -> Underline spelling errors...
 
 VA's source of C/C++ content:
-
-1. VA Options -> Enhanced Listboxes -> Source of C/C++ content: Visual Assist
-2. Disable for all solutions
-	(VS)Tools -> Options -> Text Editor -> C/C++ -> Advanced -> Disable Database = True
+	1. VA Options -> Enhanced Listboxes -> Source of C/C++ content: Visual Assist
+	2. Disable for all solutions
+		(VS)Tools -> Options -> Text Editor -> C/C++ -> Advanced -> Disable Database = True
+		
+VA's current line highlighting:
+	VA Options -> Highlighting -> Highlight current line with: Thin frame
