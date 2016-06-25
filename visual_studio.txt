@@ -10,3 +10,10 @@ Tools -> Options -> Text Editor -> [some languange (C/C++)] -> Advanced -> Intel
 
 Enable/Disable line wrap in Text Editor:
 Tools >> Options >> Text Editor >> All Languages >> General >> Select Word Wrap
+
+Add binary/text resource files:
+http://stackoverflow.com/questions/9240188/how-to-load-a-custom-binary-resource-in-a-vc-static-library-as-part-of-a-dll
+
+Use resource files inside static lib into the target binary (see the highest votes):
+	Note:	There should be no resource file index redundancy exists
+http://stackoverflow.com/questions/531502/vc-resources-in-a-static-library
