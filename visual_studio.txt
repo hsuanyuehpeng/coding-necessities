@@ -17,3 +17,6 @@ http://stackoverflow.com/questions/9240188/how-to-load-a-custom-binary-resource-
 Use resource files inside static lib into the target binary (see the highest votes):
 	Note:	There should be no resource file index redundancy exists
 http://stackoverflow.com/questions/531502/vc-resources-in-a-static-library
+
+Bind [Ctrl + Shift + Alt + O] to "Open Containing Folder"
+https://abhijitjana.files.wordpress.com/2010/11/24.png
